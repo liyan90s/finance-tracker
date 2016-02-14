@@ -25,6 +25,8 @@ gem 'devise'
 # bootstrap
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+# stock quote gem
+gem 'stock_quote'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
